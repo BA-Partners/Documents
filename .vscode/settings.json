@@ -1,3 +1,5 @@
 {
-    "java.jdt.ls.aspectjSupport.enabled": true
+    "java.jdt.ls.aspectjSupport.enabled": true,
+    "java.help.collectErrorLog": true,
+    "gradle.javaDebug.cleanOutput": true
 }
