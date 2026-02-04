@@ -1,0 +1,1 @@
+ls ~/.vscode/extensions/github.copilot-chat-0.36.2/assets/agents/
