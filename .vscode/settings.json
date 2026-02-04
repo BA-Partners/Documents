@@ -1,5 +1,6 @@
 {
     "java.jdt.ls.aspectjSupport.enabled": true,
     "java.help.collectErrorLog": true,
-    "gradle.javaDebug.cleanOutput": true
+    "gradle.javaDebug.cleanOutput": true,
+    "markdown.validate.enabled": true
 }
